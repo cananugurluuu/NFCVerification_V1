@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F22121</color>
+    <color name="colorPrimaryDark">#f22140</color>
+    <color name="colorPrimaryLight">#F22140</color>
+
+    <color name="colorAccent">#37474F</color>
+    <color name="colorAccentDark">#96989A</color>
+    <color name="colorAccentLight">#727272</color>
+
+    <color name="grey_dark">#2F4651</color>
+    <color name="grey_hard">#96989A</color>
+    <color name="grey_medium">#BDBFC1</color>
+    <color name="grey_soft">#F5F5F5</color>
+
+    <color name="darkOverlaySoft">#40000000</color>
+    <color name="whiteOverlay">#40FFFFFF</color>
+
+    <color name="grey_bg">#E6E6E6</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="bg_screen1">#8955D1</color>
+    <color name="bg_screen3">#07B2DD</color>
+
+    <color name="switchThumbBgActive">#1b5e20</color>
+
+    <color name="actionbar_opacity">#33000000</color>
+    <color name="colorPrimaryT">#76F22121</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+</resources>

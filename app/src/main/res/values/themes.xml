@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="BaseTheme" />
+
+    <style name="BaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorControlHighlight">@color/colorPrimaryLight</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="DrawerStyle" parent="@style/ThemeOverlay.AppCompat.Light">
+        <item name="colorControlHighlight">#0D000000</item>
+        <item name="listPreferredItemHeightSmall">60dp</item>
+    </style>
+
+    <style name="DrawerItemTextStyle" parent="@style/TextAppearance.AppCompat.Medium">
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

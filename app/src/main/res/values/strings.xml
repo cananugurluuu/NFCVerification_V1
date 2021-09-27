@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NFC Verification</string>
+
+    <string name="title_nav_logout">Close App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="read_tag">Read Tag</string>
+    <string name="tag_id">Tag ID</string>
+    <string name="tag_record">Tag Record</string>
+    <string name="tag_text">Data</string>
+    <string name="write">WRITE</string>
+    <string name="successfull">Successfull</string>
+    <string name="failed">Failed! Try again, please!</string>
+    <string name="notWritable">Not Writable!</string>
+</resources>
